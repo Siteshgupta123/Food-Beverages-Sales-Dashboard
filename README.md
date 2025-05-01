@@ -27,7 +27,7 @@ The main goal of this project is to:
 - Help business stakeholders make data-driven decisions
 __________________________________________________________________________________________________
 **📂Dataset:**
-- product:
+- product: Product.xlsx
 - Sales: 
 - Fields Used: Product Group, Salesperson, Channel, Quarter, Revenue, Orders
 __________________________________________________________________________________________________
