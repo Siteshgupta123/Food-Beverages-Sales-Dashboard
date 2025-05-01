@@ -27,8 +27,8 @@ The main goal of this project is to:
 - Help business stakeholders make data-driven decisions
 __________________________________________________________________________________________________
 **📂Dataset:**
-- product: Product.xlsx
-- Sales: 
+- product: [Product.xlsx](https://github.com/Siteshgupta123/Food-Beverages-Sales-Dashboard/blob/main/Product.xlsx)
+- Sales:  [SalesData.xlsx](https://github.com/Siteshgupta123/Food-Beverages-Sales-Dashboard/blob/main/SalesData.xlsx)
 - Fields Used: Product Group, Salesperson, Channel, Quarter, Revenue, Orders
 __________________________________________________________________________________________________
 **🔑 Key Features & Insights**
