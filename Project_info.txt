@@ -1,0 +1,47 @@
+🚀 Project:
+Food and Beverage Sales Analysis Dashboard
+========================================
+📌 Tool Used:
+- Microsoft Power BI
+- Excel
+========================================
+📊 Objective:
+- To analyze and visualize sales data across different time periods, product categories, and sales channels.
+- To identify trends in order volumes and revenue.
+- To evaluate sales performance of products and salespersons for strategic decision-making.
+========================================
+📈 Key Metrics:
+- Total Products: 798
+- Total Orders: 53K
+- Total Revenue: $17.9M
+========================================
+📅 Time Analysis:
+- Monthly Revenue & Orders: Identifies high-performing months (e.g., October & November).
+- Quarterly Analysis: Q3 & Q4 show the highest sales peaks.
+========================================
+📦 Product Insights:
+- Top Product Group: Wheat Flour
+- Other High Performers: Oil, Yeasts, Flour, Liquor
+- Product Category Split:
+  - Drink: $16.37M (91.39%)
+  - Food: $1.54M (8.61%)
+========================================
+📦 Channel Performance:
+- Online: $8.70M (48.56%)
+- Distributor: $6.10M (34.05%)
+- Retail: $3.11M (17.39%)
+========================================
+👨‍💼 Salesperson Performance:
+- Carla F.: Highest revenue generator
+- Julio Li. & Gustavo: Top in order volume
+========================================
+🧠 Business Use Cases:
+- Optimize stock and supply chain based on top-selling products.
+- Adjust marketing strategies depending on high/low-performing channels.
+- Incentivize top-performing salespeople.
+========================================
+📁 Project Folder Structure:
+- Dataset/ → Raw and processed data files (Excel)
+- PowerBI/ → PBIX file for Power BI dashboard
+- README.md → Full documentation with project summary
+- Project_Info.txt → This file
